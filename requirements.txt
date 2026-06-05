@@ -1,0 +1,4 @@
+openpyxl
+cryptography
+Pillow
+et_xmlfile
